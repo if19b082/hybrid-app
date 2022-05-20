@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.HybridApp",
+    "appName": "Hybrid-App",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
